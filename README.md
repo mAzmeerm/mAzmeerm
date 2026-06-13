@@ -44,7 +44,9 @@ I am a Computer Science diploma student at **Universiti Teknologi MARA (UiTM) Ra
 I approach software with a systems-first mindset — designing for correctness, maintainability, and performance from the ground up. Across five completed projects ranging from console applications to full-stack web platforms and mobile apps, I have applied structured software development methodologies, version-controlled collaborative workflows, and well-normalized database schemas to deliver quality output at every layer of the stack.
 
 **Open To:**
-- Software Engineering Internships
+- Software Developer Internships
+- Web Developer Internship
+- IT Internship
 - Academic & Research Collaborations
 - Open Source Contributions
 
@@ -306,11 +308,7 @@ Leading multi-disciplinary software engineering group projects within the Diplom
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mAzmeerm/mAzmeerm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mAzmeerm/mAzmeerm/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mAzmeerm/mAzmeerm/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
 
