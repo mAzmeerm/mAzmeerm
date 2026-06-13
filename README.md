@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+%26+OOP+Developer;Database+%26+Systems+Enthusiast;Dean%27s+List+Scholar+%7C+CGPA+3.89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+%26+OOP+Developer;Aspiring+%26+Software+Developer;Dean%27s+List+Scholar+%7C+CGPA+3.89)](https://git.io/typing-svg)
 
 </div>
 
@@ -92,12 +92,12 @@ I approach software with a systems-first mindset — designing for correctness, 
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Object-Oriented Programming | **Advanced** | Java & C++ — applied across 3 academic projects including OOP architecture, encapsulation, modular design, and algorithmic problem-solving |
-| Full-Stack Web Development | **Intermediate–Advanced** | HTML, CSS, PHP, JavaScript, MySQL — complete CRUD web app with REST API integration and branching Git workflow |
-| Mobile Development | **Intermediate** | React Native — gamification engine with persistent state architecture and modular task system |
-| Desktop Application Development | **Intermediate** | VB.NET with Microsoft Access — login systems, financial reporting, and input validation |
-| Relational Databases | **Intermediate–Advanced** | MySQL schema design, JOIN operations, subqueries, normalization principles |
-| OS Security & Architecture | **Intermediate** | Access control systems, kernel-level protection mechanisms, vulnerability analysis |
+| Object-Oriented Programming | **Developing** | Java & C++ — applied across academic projects using classes, encapsulation, and modular structure |
+| Full-Stack Web Development | **Developing** | HTML, CSS, PHP, JavaScript, MySQL — built a complete CRUD web app with REST API and Git workflow |
+| Mobile Development | **Beginner** | React Native — built one gamified to-do app with persistent state as a first mobile project |
+| Desktop Application Development | **Beginner–Developing** | VB.NET with Microsoft Access — login system, financial tracking, and input validation |
+| Relational Databases | **Developing** | MySQL schema design, JOIN operations, subqueries, basic normalization |
+| OS Security & Architecture | **Beginner** | Introductory understanding of access control systems and kernel protection concepts |
 
 </div>
 
@@ -199,7 +199,7 @@ A console-based C++ application for managing student academic records and comput
 | Input Handling | Validated input across all user-facing entry points |
 | Impact | Demonstrates algorithmic thinking and C++ fundamentals |
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Student-Grade-Management-System)
 
 </details>
 
