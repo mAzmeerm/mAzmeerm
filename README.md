@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24,25&height=200&section=header&text=Muhamad%20Azmeer%20Bin%20Mohd%20Zuli&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20UiTM%20Raub&descAlignY=58&descFontSize=16&descFontColor=d0aaff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24,25&height=200&section=header&text=Muhamad%20Azmeer%20Bin%20Mohd%20Zuli&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20UiTM%20Raub&descAlignY=58&descFontSize=16&descFontColor=d0aaff" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+%26+OOP+Developer;Database+%26+Systems+Enthusiast;Dean%27s+List+Scholar+%7C+CGPA+3.89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+%26+OOP+Developer;Database+%26+Systems+Enthusiast;Dean%27s+List+Scholar+%7C+CGPA+3.89)](https://git.io/typing-svg)
 
 </div>
 
