@@ -14,7 +14,7 @@
 
 ![UiTM](https://img.shields.io/badge/UiTM%20Raub-Diploma%20in%20Computer%20Science-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
 ![Dean's List](https://img.shields.io/badge/Dean's%20List%20Scholar-CGPA%203.89-6D28D9?style=flat-square&logo=star&logoColor=white)
-![Location](https://img.shields.io/badge/Selangor%20%2F%20Pahang-Malaysia-4F46E5?style=flat-square&logo=google-maps&logoColor=white)
+![Location](https://img.shields.io/badge/Selangor-Kapar-Malaysia-4F46E5?style=flat-square&logo=google-maps&logoColor=white)
 
 </div>
 
