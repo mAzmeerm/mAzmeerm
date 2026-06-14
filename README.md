@@ -281,18 +281,7 @@ Leading multi-disciplinary software engineering group projects within the Diplom
 <img src="https://streak-stats.demolab.com/?user=mAzmeerm&theme=tokyonight&background=0D0D0D&border=7C3AED&ring=A855F7&fire=7C3AED&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=A855F7&sideNums=A855F7&dates=6D28D9" width="60%" />
 
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mAzmeerm&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="100%" />
-
-</div>
-
----
+ ----
 
 ## Contribution Activity
 
