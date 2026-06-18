@@ -126,7 +126,7 @@ A gamified mobile productivity application built with React Native, featuring a 
 ---
 
 <details>
-<summary><b>Web-Based Company Expense Management System — PHP / MySQL</b></summary>
+<summary><b>Web-Based Company Expense Claims Portal — PHP / MySQL</b></summary>
 <br>
 
 A full-stack web application for company expense tracking, featuring user authentication, database-driven CRUD operations, and a REST API layer connecting the PHP backend to a MySQL database. Developed collaboratively using GitHub branching workflows.
