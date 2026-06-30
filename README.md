@@ -41,7 +41,7 @@
 
 I am a Computer Science diploma student at **Universiti Teknologi MARA (UiTM) Raub**, maintaining a **CGPA of 3.89** and consistently recognized on the Dean's List. My engineering foundation spans full-stack web development, object-oriented application design, desktop systems, mobile development, and relational database architecture.
 
-I approach software with a systems-first mindset — designing for correctness, maintainability, and performance from the ground up. Across five completed projects ranging from console applications to full-stack web platforms and mobile apps, I have applied structured software development methodologies, version-controlled collaborative workflows, and well-normalized database schemas to deliver quality output at every layer of the stack.
+I approach software with a systems-first mindset — designing for correctness, maintainability, and performance from the ground up. Across seven completed projects ranging from console applications to full-stack web platforms and mobile apps, I have applied structured software development methodologies, version-controlled collaborative workflows, and well-normalized database schemas to deliver quality output at every layer of the stack.
 
 **Open To:**
 - Software Developer Internships
@@ -60,19 +60,21 @@ I approach software with a systems-first mindset — designing for correctness, 
 
 ![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6D28D9?style=flat-square&logo=cplusplus&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5B21B6?style=flat-square&logo=dotnet&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-4C1D95?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7C3AED?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-5B21B6?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5B21B6?style=flat-square&logo=python&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-4C1D95?style=flat-square&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-5B21B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4C1D95?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
 
 **Backend & Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/MS%20Access-6D28D9?style=flat-square&logo=microsoft-access&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-5B21B6?style=flat-square&logo=fastapi&logoColor=white)
-![Relational Schema](https://img.shields.io/badge/Relational%20Schema%20Design-4C1D95?style=flat-square&logo=databricks&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/MS%20Access-5B21B6?style=flat-square&logo=microsoft-access&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-4C1D95?style=flat-square&logo=fastapi&logoColor=white)
+![Relational Schema](https://img.shields.io/badge/Relational%20Schema%20Design-7C3AED?style=flat-square&logo=databricks&logoColor=white)
 
 **Tools & Practices**
 
@@ -94,7 +96,7 @@ I approach software with a systems-first mindset — designing for correctness, 
 |---|---|---|
 | Object-Oriented Programming | **Developing** | Java & C++ — applied across academic projects using classes, encapsulation, and modular structure |
 | Full-Stack Web Development | **Developing** | HTML, CSS, PHP, JavaScript, MySQL — built a complete CRUD web app with REST API and Git workflow |
-| Mobile Development | **Beginner** | React Native — built one gamified to-do app with persistent state as a first mobile project |
+| Mobile Development | **Beginner–Developing** | React Native + Firebase — building a job comparison app with real-time Firestore sync and Auth |
 | Desktop Application Development | **Beginner–Developing** | VB.NET with Microsoft Access — login system, financial tracking, and input validation |
 | Relational Databases | **Developing** | MySQL schema design, JOIN operations, subqueries, basic normalization |
 | OS Security & Architecture | **Beginner** | Introductory understanding of access control systems and kernel protection concepts |
@@ -106,22 +108,24 @@ I approach software with a systems-first mindset — designing for correctness, 
 ## Featured Projects
 
 <details>
-<summary><b>RPG To-Do List Application — React Native</b></summary>
+<summary><b>Job Comparison Application — React Native / Firebase</b></summary>
 <br>
 
-A gamified mobile productivity application built with React Native, featuring a rule-based XP and leveling engine integrated with a modular quest-and-dailies task system. Implemented centralized state architecture with persistent storage to synchronize user progress across the application lifecycle.
+A cross-platform mobile application that allows users to compare job offers side-by-side, built with React Native and Firebase. Features real-time data synchronization via Firestore and secure user authentication via Firebase Auth.
 
 | Attribute | Details |
 |---|---|
-| Stack | React Native, Persistent Storage, State Management |
-| Scale | Mobile Application — Academic & Personal Portfolio |
-| Architecture | Centralized state with persistent cross-session sync |
-| Design Pattern | Modular gamification engine (XP, levels, achievements) |
-| Impact | Demonstrates mobile development and architectural discipline |
+| Stack | React Native, Firebase Firestore, Firebase Auth, JavaScript |
+| Scale | Mobile Application — Personal Project |
+| Architecture | Firebase BaaS with real-time data sync |
+| Features | Side-by-side job comparison, user login, live data updates |
+| Impact | Demonstrates mobile development with a production-grade cloud backend |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
 
 </details>
+
+---
 
 ---
 
@@ -139,7 +143,7 @@ A full-stack web application for company expense tracking, featuring user authen
 | Version Control | GitHub branching workflow with team collaboration |
 | Impact | Demonstrates full-stack engineering and team delivery capability |
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Expense-Claims-Portal)
 
 </details>
 
@@ -159,7 +163,7 @@ A Windows desktop application for personal finance management, featuring a login
 | Database | MS Access with structured financial data schema |
 | Impact | Demonstrates desktop development and database integration |
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Finance-Tracker-System)
 
 </details>
 
@@ -178,6 +182,25 @@ An object-oriented Java system designed to categorize and manage waste items usi
 | Design | Encapsulated class hierarchy, modular structure |
 | Performance | Optimized data retrieval and memory management |
 | Impact | Streamlined operational scheduling simulation |
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
+
+</details>
+
+---
+<details>
+<summary><b>Flight Booking System — Java</b></summary>
+<br>
+
+A console-based flight ticketing system built in Java using core OOP principles. Implements a class hierarchy with a base Ticket class extended by Business and Economy subclasses, each with distinct pricing rules, seat assignment logic, and passenger category handling.
+
+| Attribute | Details |
+|---|---|
+| Stack | Java, OOP |
+| Scale | Console Application — Individual Project |
+| Architecture | Inheritance-based class hierarchy (Ticket → Business / Economy) |
+| Design Pattern | Subclass specialization with encapsulated pricing and seat logic |
+| Impact | Demonstrates OOP design, inheritance, and structured console application development |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
 
@@ -204,7 +227,25 @@ A console-based C++ application for managing student academic records and comput
 </details>
 
 ---
+<details>
+<summary><b>Grocery Inventory System — Python</b></summary>
+<br>
 
+A command-line inventory management system built in Python with full CRUD operations. Features reusable input validation helper functions and automatic ID resequencing after item deletion.
+
+| Attribute | Details |
+|---|---|
+| Stack | Python |
+| Scale | Console Application — Individual Project |
+| Features | Add, update, search, delete, view inventory items |
+| Design | Reusable helper functions for input validation |
+| Impact | Demonstrates Python fundamentals, clean code structure, and CLI application design |
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Grocery_Inventory_System)
+
+</details>
+
+---
 ## Experience & Leadership
 
 **Academic Project Lead | UiTM Raub**
@@ -311,6 +352,7 @@ Learning:
   - System Security Protocols & Access Control Models
 
 Building:
+  - Job Comparison Mobile App (React Native + Firebase)
   - Optimized Relational Database Systems
   - Scalable Desktop & Web Applications
   - Mobile Experiences with React Native
