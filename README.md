@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24,25&height=200&section=header&text=Muhamad%20Azmeer%20Bin%20Mohd%20Zuli&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20UiTM%20Raub&descAlignY=58&descFontSize=16&descFontColor=d0aaff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24,25&height=200&section=header&text=Muhamad%20Azmeer%20Bin%20Mohd%20Zuli&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20Intern%20%7C%20Bina%20Cloudtech%20Sdn%20Bhd&descAlignY=58&descFontSize=16&descFontColor=d0aaff" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+%26+OOP+Developer;Aspiring+%26+Software+Developer;Dean%27s+List+Scholar+%7C+CGPA+3.89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+%26+OOP+Developer;Software+Developer+Intern+at+Bina+Cloudtech;Dean%27s+List+Scholar+%7C+CGPA+3.89)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,18 +38,12 @@
 ---
 
 ## About Me
+I am a Computer Science diploma student at **Universiti Teknologi MARA (UiTM) Raub**, maintaining a **CGPA of 3.89** and consistently recognized on the Dean's List. I am currently a **Software Developer Intern at Bina Cloudtech Sdn Bhd**.
 
-I am a Computer Science diploma student at **Universiti Teknologi MARA (UiTM) Raub**, maintaining a **CGPA of 3.89** and consistently recognized on the Dean's List. My engineering foundation spans full-stack web development, object-oriented application design, desktop systems, mobile development, and relational database architecture.
+My public projects include a React and Firebase family food journal, a PHP and MySQL expense claims portal, and applications built with Python, C++, and VB.NET. I enjoy building practical software across web, desktop, and command-line platforms.
 
-I approach software with a systems-first mindset — designing for correctness, maintainability, and performance from the ground up. Across seven completed projects ranging from console applications to full-stack web platforms and mobile apps, I have applied structured software development methodologies, version-controlled collaborative workflows, and well-normalized database schemas to deliver quality output at every layer of the stack.
-
-**Open To:**
-- Software Developer Internships
-- Web Developer Internship
-- IT Internship
-- Academic & Research Collaborations
-- Open Source Contributions
-
+**Current Position:**
+- Software Developer Intern at Bina Cloudtech Sdn Bhd
 ---
 
 ## Tech Stack
@@ -62,7 +56,8 @@ I approach software with a systems-first mindset — designing for correctness, 
 ![C++](https://img.shields.io/badge/C++-6D28D9?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5B21B6?style=flat-square&logo=python&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-4C1D95?style=flat-square&logo=dotnet&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-5B21B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4C1D95?style=flat-square&logo=php&logoColor=white)
@@ -89,61 +84,70 @@ I approach software with a systems-first mindset — designing for correctness, 
 ---
 
 ## Engineering Expertise
-
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Object-Oriented Programming | **Developing** | Java & C++ — applied across academic projects using classes, encapsulation, and modular structure |
-| Full-Stack Web Development | **Developing** | HTML, CSS, PHP, JavaScript, MySQL — built a complete CRUD web app with REST API and Git workflow |
-| Mobile Development | **Beginner–Developing** | React Native + Firebase — building a job comparison app with real-time Firestore sync and Auth |
-| Desktop Application Development | **Beginner–Developing** | VB.NET with Microsoft Access — login system, financial tracking, and input validation |
-| Relational Databases | **Developing** | MySQL schema design, JOIN operations, subqueries, basic normalization |
-| OS Security & Architecture | **Beginner** | Introductory understanding of access control systems and kernel protection concepts |
+| Frontend Web Development | **Developing** | React, TypeScript, Vite, HTML, CSS, and JavaScript — used in the Family Food Tracker |
+| Full-Stack Web Development | **Developing** | PHP, MySQL, HTML, CSS, and JavaScript — used in the Expense Claims Portal |
+| Object-Oriented Programming | **Developing** | Java and C++ — applied in academic projects using classes and modular structure |
+| Desktop Application Development | **Beginner–Developing** | VB.NET with Microsoft Access — finance tracking and data management |
+| Command-Line Applications | **Developing** | Python — built a grocery inventory tool with CRUD operations and input validation |
+| Relational Databases | **Developing** | MySQL schema design, joins, subqueries, and basic normalization |
 
 </div>
-
 ---
 
 ## Featured Projects
-
 <details>
-<summary><b>Job Comparison Application — React Native / Firebase</b></summary>
+<summary><b>Family Food Tracker — React / Firebase</b></summary>
 <br>
 
-A cross-platform mobile application that allows users to compare job offers side-by-side, built with React Native and Firebase. Features real-time data synchronization via Firestore and secure user authentication via Firebase Auth.
+A family food journal for saving restaurants and sharing ratings and reviews. It includes a food map, restaurant search, location features, image uploads, family-member reviews, and Firebase Authentication with Cloud Firestore.
 
 | Attribute | Details |
 |---|---|
-| Stack | React Native, Firebase Firestore, Firebase Auth, JavaScript |
-| Scale | Mobile Application — Personal Project |
-| Architecture | Firebase BaaS with real-time data sync |
-| Features | Side-by-side job comparison, user login, live data updates |
-| Impact | Demonstrates mobile development with a production-grade cloud backend |
+| Stack | React, TypeScript, Vite, Firebase, Leaflet |
+| Type | Personal web application |
+| Features | Restaurant management, map view, family reviews, location lookup, image uploads |
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/family-food-tracker)
 
 </details>
 
 ---
 
----
-
 <details>
-<summary><b>Web-Based Company Expense Claims Portal — PHP / MySQL</b></summary>
+<summary><b>Expense Claims Portal — PHP / MySQL</b></summary>
 <br>
 
-A full-stack web application for company expense tracking, featuring user authentication, database-driven CRUD operations, and a REST API layer connecting the PHP backend to a MySQL database. Developed collaboratively using GitHub branching workflows.
+A web-based expense management system with separate Admin and Employee dashboards for managing employee accounts, expense claims, department budgets, and expense categories.
 
 | Attribute | Details |
 |---|---|
-| Stack | HTML, CSS, PHP, JavaScript, MySQL |
-| Scale | Multi-user Web Application — Academic Group Project |
-| Architecture | REST API with frontend-backend separation |
-| Version Control | GitHub branching workflow with team collaboration |
-| Impact | Demonstrates full-stack engineering and team delivery capability |
+| Stack | PHP, MySQL, HTML, CSS, JavaScript |
+| Type | Academic group project |
+| Features | Admin and staff dashboards, claim management, budgets, and categories |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Expense-Claims-Portal)
+
+</details>
+
+---
+
+<details>
+<summary><b>Grocery Inventory System — Python</b></summary>
+<br>
+
+A command-line inventory management system for adding, updating, searching, deleting, and viewing grocery items, with reusable input validation.
+
+| Attribute | Details |
+|---|---|
+| Stack | Python |
+| Type | Individual project |
+| Features | Inventory CRUD operations and input validation |
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Grocery_Inventory_System)
 
 </details>
 
@@ -153,56 +157,15 @@ A full-stack web application for company expense tracking, featuring user authen
 <summary><b>Finance Tracker System — VB.NET</b></summary>
 <br>
 
-A Windows desktop application for personal finance management, featuring a login system, income and expense tracking, financial goal management, and reporting features. Integrated Microsoft Access database with applied input validation to minimize data entry errors.
+A Windows desktop app for tracking income, expenses, and financial goals, backed by Microsoft Access.
 
 | Attribute | Details |
 |---|---|
 | Stack | VB.NET, Microsoft Access |
-| Scale | Desktop Application — Individual Academic Project |
-| Security | Login system with input validation |
-| Database | MS Access with structured financial data schema |
-| Impact | Demonstrates desktop development and database integration |
+| Type | Individual academic project |
+| Features | Login, finance tracking, goals, and reports |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Finance-Tracker-System)
-
-</details>
-
----
-
-<details>
-<summary><b>Waste Management System — Java</b></summary>
-<br>
-
-An object-oriented Java system designed to categorize and manage waste items using core OOP principles — classes, encapsulation, and modular structure. Developed as an academic Data Structures project to simulate organized waste collection workflows.
-
-| Attribute | Details |
-|---|---|
-| Stack | Java, OOP, Data Structures |
-| Scale | Departmental / Academic Prototype |
-| Design | Encapsulated class hierarchy, modular structure |
-| Performance | Optimized data retrieval and memory management |
-| Impact | Streamlined operational scheduling simulation |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
-
-</details>
-
----
-<details>
-<summary><b>Flight Booking System — Java</b></summary>
-<br>
-
-A console-based flight ticketing system built in Java using core OOP principles. Implements a class hierarchy with a base Ticket class extended by Business and Economy subclasses, each with distinct pricing rules, seat assignment logic, and passenger category handling.
-
-| Attribute | Details |
-|---|---|
-| Stack | Java, OOP |
-| Scale | Console Application — Individual Project |
-| Architecture | Inheritance-based class hierarchy (Ticket → Business / Economy) |
-| Design Pattern | Subclass specialization with encapsulated pricing and seat logic |
-| Impact | Demonstrates OOP design, inheritance, and structured console application development |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm)
 
 </details>
 
@@ -212,53 +175,32 @@ A console-based flight ticketing system built in Java using core OOP principles.
 <summary><b>Student Grade Management System — C++</b></summary>
 <br>
 
-A console-based C++ application for managing student academic records and computing grades. Implemented using arrays, structured input validation, and a rule-based grading algorithm to produce accurate results across varied student datasets.
+A console application for managing student records and calculating grades, with validated input and rule-based grading.
 
 | Attribute | Details |
 |---|---|
-| Stack | C++, Arrays, Input Validation |
-| Scale | Console Application — Academic Prototype |
-| Algorithm | Rule-based grading logic with edge-case handling |
-| Input Handling | Validated input across all user-facing entry points |
-| Impact | Demonstrates algorithmic thinking and C++ fundamentals |
+| Stack | C++, arrays, input validation |
+| Type | Academic project |
+| Features | Student records and grade calculation |
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Student-Grade-Management-System)
 
 </details>
 
----
-<details>
-<summary><b>Grocery Inventory System — Python</b></summary>
-<br>
-
-A command-line inventory management system built in Python with full CRUD operations. Features reusable input validation helper functions and automatic ID resequencing after item deletion.
-
-| Attribute | Details |
-|---|---|
-| Stack | Python |
-| Scale | Console Application — Individual Project |
-| Features | Add, update, search, delete, view inventory items |
-| Design | Reusable helper functions for input validation |
-| Impact | Demonstrates Python fundamentals, clean code structure, and CLI application design |
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/mAzmeerm/Grocery_Inventory_System)
-
-</details>
-
----
 ## Experience & Leadership
+
+**Software Developer Intern | Bina Cloudtech Sdn Bhd**
+Currently working as a Software Developer Intern.
 
 **Academic Project Lead | UiTM Raub**
 `September 2024 — Present`
 
-Leading multi-disciplinary software engineering group projects within the Diploma in Computer Science programme at UiTM Raub. Responsible for system architecture planning, task distribution, code quality standards, and final delivery of working software products across multiple project domains.
+Leading software engineering group projects within the Diploma in Computer Science programme at UiTM Raub, contributing to project planning, task coordination, code quality, and delivery.
 
-- Orchestrated end-to-end software development cycles following SDLC methodology
-- Designed and implemented object-oriented architecture for team-built applications
-- Conducted collaborative code reviews to uphold quality and consistency standards
-- Contributed to database schema design including normalization and query optimization
-- Managed version control workflows using GitHub branching strategies in team settings
-
+- Planned and contributed to end-to-end software development using SDLC practices
+- Applied object-oriented design in team-built applications
+- Collaborated on code reviews and database schema design
+- Used GitHub branching workflows for team projects
 <div align="center">
 
 ![Leadership](https://img.shields.io/badge/Team%20Leadership-7C3AED?style=flat-square)
@@ -349,22 +291,19 @@ Leading multi-disciplinary software engineering group projects within the Diplom
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithm Design
-  - System Security Protocols & Access Control Models
+  - Full-Stack Application Development
 
 Building:
-  - Job Comparison Mobile App (React Native + Firebase)
-  - Optimized Relational Database Systems
-  - Scalable Desktop & Web Applications
-  - Mobile Experiences with React Native
+  - Family Food Tracker (React, TypeScript, Firebase)
+  - Practical software development experience at Bina Cloudtech Sdn Bhd
+  - Web and database applications
 
 Exploring:
-  - Kernel-level Protection Mechanisms
   - Full-Stack Architecture Patterns
+  - Secure application design
 
-Open To:
-  - Software Engineering Internships
-  - Academic & Tech Collaborations
-  - Open Source Contributions
+Current Position:
+  - Software Developer Intern at Bina Cloudtech Sdn Bhd
 ```
 
 ---
