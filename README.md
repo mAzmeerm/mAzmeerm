@@ -242,8 +242,6 @@ Leading software engineering group projects within the Diploma in Computer Scien
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mAzmeerm)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/mAzmeerm)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mAzmeerm)
 
 </div>
